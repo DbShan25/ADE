@@ -1,5 +1,6 @@
 # ADE
-Agri Data Explorer
+Agri Data Explorer objectives to clean and preprocess agricultural data for accurate analysis, conduct exploratory data analysis (EDA) and visualize key agricultural trends, implement SQL queries for in-depth data insights, develop an interactive Power BI dashboard for visualization, provide recommendations for improving crop production and yield optimization.
+
 Using Python from Jupyter Notebook:
 Read data from source file
 standardizing units
